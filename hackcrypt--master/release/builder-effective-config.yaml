@@ -1,0 +1,12 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.secops.dashboard
+productName: SecOps Dashboard
+files:
+  - filter:
+      - dist/**/*
+      - electron/**/*
+win:
+  target: nsis
+electronVersion: 28.3.3
