@@ -28,16 +28,3 @@ This project is built as a frontend-driven SOC simulation using modern web techn
 - Structured SOC workflow
 
 
-hackcrypt_soc/
-│
-├── index.html
-├── vite.config.js
-├── eslint.config.js
-├── package.json
-│
-├── HONEYPOT_PLAN.md
-├── IMPLEMENTATION_PLAN.md
-├── GPT_PROMPT.md
-├── FLEX_LIST.md
-└── README.md
-
